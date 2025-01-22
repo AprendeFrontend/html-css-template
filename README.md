@@ -78,7 +78,7 @@ Copia y pega este mensaje para compartir tu progreso:
 
 ## 🔥 Publicidad de AprendeFrontend.com
 
-¿Quieres más retos como este? Visita [AprendeFrontend.com](https://aprendefrontend.es) para encontrar desafíos nuevos cada semana, desde básicos hasta avanzados. Mejora tus habilidades y construye tu portafolio con proyectos increíbles. 🎉
+¿Quieres más retos como este? Visita [AprendeFrontend.es](https://aprendefrontend.es) para encontrar desafíos nuevos cada semana, desde básicos hasta avanzados. Mejora tus habilidades y construye tu portafolio con proyectos increíbles. 🎉
 
 ---
 
