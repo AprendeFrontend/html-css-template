@@ -1,6 +1,6 @@
 # 🌟 Proyecto de AprendeFrontend.com
 
-¡Bienvenido/a! Este proyecto es parte de los retos de [AprendeFrontend.com](https://aprendefrontend.es), una plataforma diseñada para ayudarte a mejorar tus habilidades en el desarrollo frontend. 🖥️
+¡Bienvenido/a! Este proyecto es parte de los retos de [AprendeFrontend.es](https://aprendefrontend.es), una plataforma diseñada para ayudarte a mejorar tus habilidades en el desarrollo frontend. 🖥️
 
 ---
 
