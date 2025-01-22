@@ -1,6 +1,6 @@
 # 🌟 Proyecto de AprendeFrontend.com
 
-¡Bienvenido/a! Este proyecto es parte de los retos de [AprendeFrontend.com](https://aprendefrontend.com), una plataforma diseñada para ayudarte a mejorar tus habilidades en el desarrollo frontend. 🖥️
+¡Bienvenido/a! Este proyecto es parte de los retos de [AprendeFrontend.com](https://aprendefrontend.es), una plataforma diseñada para ayudarte a mejorar tus habilidades en el desarrollo frontend. 🖥️
 
 ---
 
@@ -51,15 +51,15 @@ Haz clic aquí para ver tu proyecto en acción: [Demo en vivo](https://tusitio.g
 
 ### 1️⃣ ¿Cómo utilizar Figma?
 
-Consulta nuestra guía: [Figma para principiantes](https://aprendefrontend.com/guia-figma)
+Consulta nuestra guía: [Figma para principiantes](https://aprendefrontend.es/guia-figma)
 
 ### 2️⃣ ¿Cómo desplegar en GitHub Pages?
 
-Sigue este tutorial: [Desplegar en GitHub Pages](https://aprendefrontend.com/desplegar-github)
+Sigue este tutorial: [Desplegar en GitHub Pages](https://aprendefrontend.es/desplegar-github)
 
 ### 3️⃣ ¿Dónde encuentro una guía de propiedades CSS?
 
-Explora nuestra referencia: [Guía completa de propiedades CSS](https://aprendefrontend.com/css-propiedades)
+Explora nuestra referencia: [Guía completa de propiedades CSS](https://aprendefrontend.es/css-propiedades)
 
 ---
 
@@ -72,13 +72,13 @@ Si completaste este proyecto, compártelo en redes sociales para que otros lo ve
 
 Copia y pega este mensaje para compartir tu progreso:
 
-> 🚀 Acabo de completar un reto de [AprendeFrontend.com](https://aprendefrontend.com). ¡Echa un vistazo a mi proyecto! 🖥️✨ #AprendeFrontend
+> 🚀 Acabo de completar un reto de [AprendeFrontend.com](https://aprendefrontend.es). ¡Echa un vistazo a mi proyecto! 🖥️✨ #AprendeFrontend
 
 ---
 
 ## 🔥 Publicidad de AprendeFrontend.com
 
-¿Quieres más retos como este? Visita [AprendeFrontend.com](https://aprendefrontend.com) para encontrar desafíos nuevos cada semana, desde básicos hasta avanzados. Mejora tus habilidades y construye tu portafolio con proyectos increíbles. 🎉
+¿Quieres más retos como este? Visita [AprendeFrontend.com](https://aprendefrontend.es) para encontrar desafíos nuevos cada semana, desde básicos hasta avanzados. Mejora tus habilidades y construye tu portafolio con proyectos increíbles. 🎉
 
 ---
 
